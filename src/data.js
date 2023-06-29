@@ -90,7 +90,7 @@ export const contacts = [
     },
     {
       id: 12,
-      name: "Muhammed S.",
+      name: "Muhammed",
       imgURL:
         "https://cdn2.iconfinder.com/data/icons/male-avatars/128/avatars_accounts___man_male_people_person_turban_turbin_culture.png",
         email: "muhammed_s@react.com",
